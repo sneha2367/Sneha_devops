@@ -1,1 +1,2 @@
 devops is a trending tech
+git is working area
